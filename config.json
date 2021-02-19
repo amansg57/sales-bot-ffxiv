@@ -1,0 +1,17 @@
+{ 
+  "token"  : "",
+  "prefix" : "+",
+  "reactionDelay" : 10,
+  "tankEmoji": "",
+  "healerEmoji": "",
+  "dpsEmoji": "",
+  "anyEmoji": "",
+  "tankRole": "Tank",
+  "healerRole": "Healer",
+  "dpsRole": "DPS",
+  "lightChannel": "",
+  "chaosChannel": "",
+  "aetherChannel": "",
+  "primalChannel": "",
+  "crystalChannel": ""
+}
