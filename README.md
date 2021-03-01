@@ -1,5 +1,7 @@
 #### A discord.js bot made for easily posting and managing in-game sales in FFXIV
 
+The bot takes user input from a command with selected parameters, and outputs a message that pings relevant Discord roles and presents the user-inputted information in a structured manner. The bot requires input of a given number of required users for certain roles (general MMO roles - DPS, healer and tank), and will provide reactions under the message corresponding to each of these roles. Users can then 'sign up' by clicking on the reaction that corresponds to the role they wish to play.
+
 I created this bot to be hosted on Heroku with a PostgreSQL database, the schema I used is below.
 
 ##### Schema
